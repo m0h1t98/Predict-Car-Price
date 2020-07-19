@@ -1,2 +1,2 @@
 # Predict-Car-Price
-This is a predictive analysis of a dataset from CAR DEKHO. This is an end to end machine learning model. 
+This was a predictive model of a dataset from CAR DEKHO. I received this dataset from Kaggle. I removed some features, cleaning the dataset, built machine learning model and implemented cross-validation. I also deployed this model on Flask.
